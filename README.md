@@ -1,4 +1,4 @@
-   ## Manual Testing – Cpp Compiler Project
+   ## Manual Testing – JPP Compiler Project
 
 ## This repository contains the **Manual Testing project for a JPP Compiler application**.  
 The purpose of this project is to validate the functionality, usability, and reliability of the JPP Compiler by designing and executing comprehensive **test cases** and **documenting defects**.  
